@@ -4,7 +4,7 @@
   "author": "Alexey Nehaenko",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexey-dobry/project-mesto-server"
+    "url": "git+https://github.com/alexey-dobry/project-mesto-server.git"
   },
   "scripts": {
     "build": "webpack --mode production",
